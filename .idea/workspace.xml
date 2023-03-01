@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87efb335-2f52-4b96-9d64-ee6e7539cb5f" name="Changes" comment="" />
+    <list default="true" id="87efb335-2f52-4b96-9d64-ee6e7539cb5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imanuwel/business/TodoBusinessImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imanuwel/data/api/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/business/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/business/TodoBusinessImplMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/business/TodoBusinessImplMockitoInjectMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/business/TodoBusinessImplStubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/data/api/TodoServiceStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/mockito/FirstMockitoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/mockito/HamcrestMatchersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imanuwel/mockito/SpyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imanuwel/mockito/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imanuwel/mockito/FirstMockito.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,20 +46,139 @@
     </option>
   </component>
   <component name="ProjectId" id="2MCe4Sa9hwDB0ByQyhTh0C6QKFR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/hervebiey/Documents/IntelliJ/mokito-course/src/test/java/com/imanuwel/business&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imanuwel.business" />
+      <recent name="com.imanuwel.mockito" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imanuwel.business" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpyTest.test">
+    <configuration name="HamcrestMatchersTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mokito-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imanuwel.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imanuwel.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.imanuwel.mockito.HamcrestMatchersTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mokito-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imanuwel.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imanuwel.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.imanuwel.mockito.SpyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mokito-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imanuwel.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imanuwel.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.imanuwel.mockito.SpyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoBusinessImplMockitoInjectMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mokito-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imanuwel.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imanuwel.business" />
+      <option name="MAIN_CLASS_NAME" value="com.imanuwel.business.TodoBusinessImplMockitoInjectMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoBusinessImplMockitoInjectMockTest.testDeleteTodosRelatedToSpring_usingBDD_argumentCaptureMultipleTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mokito-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imanuwel.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imanuwel.business" />
+      <option name="MAIN_CLASS_NAME" value="com.imanuwel.business.TodoBusinessImplMockitoInjectMockTest" />
+      <option name="METHOD_NAME" value="testDeleteTodosRelatedToSpring_usingBDD_argumentCaptureMultipleTimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpyTest.test" />
+        <item itemvalue="JUnit.SpyTest" />
+        <item itemvalue="JUnit.TodoBusinessImplMockitoInjectMockTest" />
+        <item itemvalue="JUnit.TodoBusinessImplMockitoInjectMockTest.testDeleteTodosRelatedToSpring_usingBDD_argumentCaptureMultipleTimes" />
+        <item itemvalue="JUnit.HamcrestMatchersTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="87efb335-2f52-4b96-9d64-ee6e7539cb5f" name="Changes" comment="" />
@@ -39,7 +186,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677275801426</updated>
+      <workItem from="1677275802604" duration="1854000" />
+      <workItem from="1677292215758" duration="22000" />
+      <workItem from="1677374771853" duration="700000" />
+      <workItem from="1677499843575" duration="8000" />
+      <workItem from="1677507309418" duration="707000" />
+      <workItem from="1677508436697" duration="12615000" />
+      <workItem from="1677576241747" duration="3214000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mokito_course$ListTest.ic" NAME="ListTest Coverage Results" MODIFIED="1677541271801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.imanuwel.business.*</FILTER>
+    </SUITE>
   </component>
 </project>
